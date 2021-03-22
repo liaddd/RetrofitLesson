@@ -1,0 +1,16 @@
+com/liadhorovitz/retrofitprac/BuildConfig.java
+ com.liadhorovitz.retrofitprac.BuildConfig
+com/liadhorovitz/retrofitprac/server_connection/CommentService.java
+ com.liadhorovitz.retrofitprac.server_connection.CommentService
+com/liadhorovitz/retrofitprac/server_connection/RetrofitImpl.java
+ com.liadhorovitz.retrofitprac.server_connection.RetrofitImpl
+com/liadhorovitz/retrofitprac/CommentsAdapter.java
+ com.liadhorovitz.retrofitprac.CommentsAdapter
+ com.liadhorovitz.retrofitprac.CommentsAdapter$ViewHolder
+com/liadhorovitz/retrofitprac/MainActivity.java
+ com.liadhorovitz.retrofitprac.MainActivity
+ com.liadhorovitz.retrofitprac.MainActivity$1
+ com.liadhorovitz.retrofitprac.MainActivity$2
+ com.liadhorovitz.retrofitprac.MainActivity$3
+com/liadhorovitz/retrofitprac/models/Comment.java
+ com.liadhorovitz.retrofitprac.models.Comment
